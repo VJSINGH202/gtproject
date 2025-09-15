@@ -1,2 +1,2 @@
 # gtproject
-Git Learn
+Git Learn basic
